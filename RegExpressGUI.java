@@ -40,7 +40,6 @@ public class RegExpressGUI extends JFrame implements ActionListener, KeyListener
 		textOut.setLineWrap(true);
 		textOut.setWrapStyleWord(true);
 
-		
                             // set colors for JLabels
 		l1.setForeground(Color.red);
 		l2.setForeground(Color.red);
